@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import InputPreview from "./components/InputPreview";
+import InputPreview from "../components/InputPreview";
 import { connect } from "react-redux";
-import { setMessage } from "./actions/message";
+import { setMessage } from "../actions/message";
 
 class App extends Component {
 
