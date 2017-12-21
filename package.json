@@ -1,0 +1,22 @@
+{
+  "name": "hermes",
+  "version": "0.0.1",
+  "description": "All the news you want to read.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardnunes/hermes.git"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "richardnunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardnunes/hermes/issues"
+  },
+  "homepage": "https://github.com/richardnunes/hermes#readme"
+}
