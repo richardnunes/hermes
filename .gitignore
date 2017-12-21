@@ -1,2 +1,3 @@
-.ideas/
+.idea
 package-lock.json
+node_modules
