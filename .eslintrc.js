@@ -12,7 +12,9 @@ module.exports = {
     ],
     rules: {
         'no-invalid-this': 0,
-        'func-style': 0
+        'func-style': 0,
+        'class-methods-use-this': 0,
+        'react/display-name': 0
     },
     env: {
         "browser": true,
