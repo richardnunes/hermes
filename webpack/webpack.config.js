@@ -11,12 +11,12 @@ module.exports = {
                 loader: [
                     'babel-loader',
                     'eslint-loader'
-                    ]
+                ]
             },
             {
                 test: /\.less$/,
                 loaders: ["style-loader", "css-loader", "less-loader"]
-            },
+            }
         ]
     },
     output: {
